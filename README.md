@@ -43,6 +43,6 @@ In another terminal, launch the Streamlit UI to visualize the live data:
 - **Instructor:** Eng. Ahmed Saeed Farg
 
 **Development Team:**
-- **Kareem Mas3ud** (Team Leader / Data Engineer)
+- **Kareem Mas3ud** (Team Leader)
 - **Omar Hisham** (Team Member)
 - **Mohamed Gamal** (Team Member)
