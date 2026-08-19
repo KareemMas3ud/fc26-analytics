@@ -1,0 +1,10 @@
+kafka-python-ng==2.2.2
+clickhouse-connect
+pandas
+pyspark==3.5.0
+setuptools
+cassandra-driver
+pyasyncore
+streamlit
+matplotlib
+mplsoccer

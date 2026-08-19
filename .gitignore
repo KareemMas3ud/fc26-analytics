@@ -1,0 +1,10 @@
+# Python
+__pycache__/
+*.pyc
+
+# Large Wyscout data files (exceed GitHub 100MB limit)
+wyscout_data/features.csv
+wyscout_data/actions.csv
+
+# Runtime
+match_config.json
